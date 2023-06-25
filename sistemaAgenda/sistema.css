@@ -1,0 +1,24 @@
+.modal{
+    width: 300px;
+
+}
+.modal-content{
+    width: 300px;
+}
+body{
+  
+    background: #201b2c;
+  
+    text-align: center;
+}
+
+.table-bg{
+
+    background: rgba(255, 255, 255,0.9);
+    border-radius: 3px 3px 0 0;
+}
+  
+.list-group-item:hover{
+    background-color: rgba(59, 57, 57, 0.164)!important;
+}
+
